@@ -1,6 +1,6 @@
 # DeskMateAi - Your Personal AI Assistant
 
-![DeskMateAi Logo](https://github.com/SahilWagh1/DeskMateAi/blob/24899f77e084a81b33ed7d8055c74c77834e9872/deskmateai-low-resolution-logo-transparent%20(1).png)
+![DeskMateAi Logo](https://github.com/SahilWagh1/DeskMateAi/blob/main/deskmateai-low-resolution-logo-transparent%20(2).png)
 
 DeskMateAi is your personal AI assistant that can help you with a variety of tasks, making your daily life easier and more efficient. Whether you need to search the internet, find definitions, check the time and date, locate places, play YouTube videos, set reminders, save notes, capture screenshots, or perform mathematical calculations, DeskMateAi has got you covered.
 
